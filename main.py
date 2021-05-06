@@ -15,7 +15,6 @@ def main():
     if pregunta_3 is not None:
         print(f'El máximo y mínimo peso de los pokémon de tipo fighting de primera generación: {pregunta_3}')
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     main()
 
