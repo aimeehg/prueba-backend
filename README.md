@@ -1,7 +1,7 @@
 <!-- GETTING STARTED -->
 ## Prueba Backend :smirk_cat:
 
-¡Hola!, esta es mi solución a la prueba backend para Houm :blush:
+¡Hola!, esta es mi solución a la prueba backend :blush:
 * Utiliza la [PokéAPI](https://pokeapi.co/).
 * Responde a las tres preguntas mencionadas en el documento del desafío.
 * Cuenta con el archivo `requirements.txt`.
